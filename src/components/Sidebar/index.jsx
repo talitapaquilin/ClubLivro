@@ -8,7 +8,7 @@ export function Sidebar() {
       <div className="logo">
         <img src={logo} alt="Logo Book lovers" />
       </div>
-      <p>Ler faz bem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit amet enim ut voluptatem ipsam repellendus cupiditate cum. Veritatis, alias? Facere quis quasi deleniti maiores id rerum iste neque, recusandae autem!</p>
+      <p>Esse não é uma simples site de livros, e sim um site no qual todos os amantes de livros podem interagir uns com os outros compartilhando da mesma paixão!</p>
     </nav>
   )
 }

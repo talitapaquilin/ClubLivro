@@ -23,7 +23,7 @@ export function ModalContainer({ isOpen, onClose, card, text}) {
           <p className='text'>{text}</p>
           <div className="buttons">
             <a href="" className='a'>Comprar o Livro</a>
-            <a href="" className='a'>Grupo Whats</a>
+            <a href="https://chat.whatsapp.com/LhcTvtIfNp0Fbh8eOFPZz5"  target="_blank" className='a'>Grupo Whats</a>
           </div>
         </div>
       </div>
