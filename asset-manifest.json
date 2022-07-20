@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ClubLivro/static/css/main.ac9574ad.css",
+    "main.js": "/ClubLivro/static/js/main.a312eb8f.js",
+    "static/media/Morro.jpg": "/ClubLivro/static/media/Morro.6aadd095d2ddd379c719.jpg",
+    "static/media/marido.jpg": "/ClubLivro/static/media/marido.1e026ffd476493318917.jpg",
+    "static/media/Logo-png.png": "/ClubLivro/static/media/Logo-png.53061e77135b61db372b.png",
+    "static/media/detento.jpeg": "/ClubLivro/static/media/detento.c020ca2d3a86c51cbb0d.jpeg",
+    "static/media/lista.jpeg": "/ClubLivro/static/media/lista.53511a73212d56db58a6.jpeg",
+    "index.html": "/ClubLivro/index.html",
+    "static/media/close.svg": "/ClubLivro/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.ac9574ad.css.map": "/ClubLivro/static/css/main.ac9574ad.css.map",
+    "main.a312eb8f.js.map": "/ClubLivro/static/js/main.a312eb8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9574ad.css",
+    "static/js/main.a312eb8f.js"
+  ]
+}
