@@ -54,7 +54,7 @@ export function Main() {
 
     }else if(img === SeteMarido) {
       setFlagImages(SeteMarido)
-      setFlagText(' amor e ódio.E é assim cada uma das páginas que compõe este livro quase todo escrito nos anos em que o autor cumpriu pena. Homem de sensibilidade aguçada, encontrou na privação da liberdade espaço para escrever. No começo foram cartas, suas e de seus companheiros.')
+      setFlagText(' Amor e ódio. E é assim cada uma das páginas que compõe este livro quase todo escrito nos anos em que o autor cumpriu pena. Homem de sensibilidade aguçada, encontrou na privação da liberdade espaço para escrever. No começo foram cartas, suas e de seus companheiros.')
       setFlagLinkBuy('https://www.amazon.com.br/Os-sete-maridos-Evelyn-Hugo/dp/8584391509/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HBQXGX2BVQXD&keywords=teto+para+dois&qid=1658235149&sprefix=teto+para+doi%2Caps%2C195&sr=8-8')
 
     }else if(img === Morro) {
@@ -69,7 +69,7 @@ export function Main() {
 
     }else if(img === Detento) {
       setFlagImages(Detento)
-      setFlagText(' Agora, em liberdade, depois de cumprir pena por receptação de carga roubada, num confuso processo criminal que o condenou a oito anos e três meses de reclusão, Jocenir lança o livro "Diário de um Detento", em que conta a sua prisão e a rotina sufocante das prisões em que foi forçado a viver')
+      setFlagText(' Agora, em liberdade, depois de cumprir pena por receptação de carga roubada, num confuso processo criminal que o condenou a oito anos e três meses de reclusão, Jocenir lança o livro "Diário de um Detento", em que conta a sua prisão e a rotina sufocante das prisões em que foi forçado a viver.')
       setFlagLinkBuy('https://www.amazon.com.br/Diario-um-Detento-Livro-Jocenir/dp/858791703X/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3J3UKVUHBQPHL&keywords=diario+de+um+detento&qid=1658235293&sprefix=diaro+de+um+detent%2Caps%2C208&sr=8-2')
 
     }else if(img === Inferno) {
@@ -85,6 +85,7 @@ export function Main() {
     }else if(img === GarotaExemplar) {
       setFlagImages(GarotaExemplar)
       setFlagText('Na manhã de seu quinto aniversário de casamento, Amy, a linda e inteligente esposa de Nick Dunne, desaparece de sua casa às margens do Rio Mississippi. Aparentemente, trata-se de um crime violento, e passagens do diário de Amy revelam uma garota perfeccionista que seria capaz de levar qualquer um ao limite. ')
+      setFlagLinkBuy('https://www.amazon.com.br/Garota-Exemplar-Gillian-Flynn/dp/8580572908')
 
     }
   
