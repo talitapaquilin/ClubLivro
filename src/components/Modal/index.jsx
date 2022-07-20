@@ -5,10 +5,7 @@ import './styles.css'
 import Modal from "react-modal";
 import { useEffect } from 'react';
 
-export function ModalContainer({ isOpen, onClose, card, text}) {
-  useEffect(() => {
-
-  },[isOpen])
+export function ModalContainer({ isOpen, onClose, card, text, linkBuy}) {
   return (
   <>
     <Modal
@@ -22,7 +19,7 @@ export function ModalContainer({ isOpen, onClose, card, text}) {
         <div className="text-button-content">
           <p className='text'>{text}</p>
           <div className="buttons">
-            <a href="" className='a'>Comprar o Livro</a>
+            <a href={linkBuy} target= '_blank' className='a'>Comprar o Livro</a>
             <a href="https://chat.whatsapp.com/LhcTvtIfNp0Fbh8eOFPZz5"  target="_blank" className='a'>Grupo Whats</a>
           </div>
         </div>
